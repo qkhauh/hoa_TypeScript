@@ -1,0 +1,1 @@
+let myarr = ["QK", "di ne", 25]
