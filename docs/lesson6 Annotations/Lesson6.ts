@@ -1,5 +1,4 @@
 let countTS: number = 1; //ok
-
 // countTS = 'name'; //error ?
 
 console.log(">>> check name: ", countTS);
